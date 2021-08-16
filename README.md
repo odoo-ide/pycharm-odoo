@@ -1,5 +1,3 @@
-This repository is where you can submit issues and feature requests for the new versions of PyCharm Odoo plugin. For the old versions, see https://github.com/trinhanhngoc/pycharm-odoo-old. Thank you!.
-
 ## Features
 * Improve code completion and navigation for Python, XML, CSV, JavaScript and PO/POT
 * Support working with multiple Odoo versions in one project window
