@@ -1,7 +1,13 @@
+# Odoo Framework Integration for PyCharm
+
+Boost your productivity and make your life easier as an Odoo developer
+
+
 ## Features
-* Improve code completion and navigation for Python, XML, CSV, JavaScript and PO/POT
-* Support working with multiple Odoo versions in one project window
-* Other improvements to make PyCharm is the best IDE for Odoo
+* Truly understand Odoo framework (Odoo module, Odoo ORM,...).
+* Amazing code completion and navigation for Python, SQL, XML, JavaScript, CSV, and PO/POT.
+* Support working with multiple Odoo versions in one project window.
+* Other improvements to make PyCharm is the best IDE for Odoo.
 
 ## Installation
 1. Install this plugin from [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/13499-odoo).
