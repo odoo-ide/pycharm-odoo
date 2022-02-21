@@ -15,3 +15,6 @@ Boost your productivity and make your life easier as an Odoo developer
 3. (Recommended) Install [XPathView](https://plugins.jetbrains.com/plugin/12478-xpathview--xslt) to support XML view inheritance features.
 4. (Recommended) Install [CSV Plugin](https://plugins.jetbrains.com/plugin/10037-csv) to support code completion and navigation in CSV files.
 5. (Optional) Install [PyDev.Debugger plugin for Odoo](https://github.com/odoo-ide/pydevd-odoo) to improve Odoo debugging.
+
+## Website
+https://odoo-ide.com
