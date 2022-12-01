@@ -5,7 +5,7 @@ Boost your productivity and make your life easier as an Odoo developer
 
 ## Features
 * Truly understand Odoo Framework (Odoo Module, Odoo ORM,...).
-* Amazing code completion and navigation for Python, SQL, XML, JavaScript, CSV and PO/POT.
+* Amazing code completion and navigation for Python, SQL, XML, JavaScript, CSV, and PO/POT.
 * Support working with multiple Odoo versions in one project window.
 * Other magic to make PyCharm the best IDE for Odoo.
 
