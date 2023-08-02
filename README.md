@@ -17,7 +17,7 @@ Boost your productivity and make your life easier as an Odoo developer
 4. Install [PyDev.Debugger plugin for Odoo](https://github.com/odoo-ide/pydevd-odoo) to improve Odoo debugging.
 
 ## Notes
-1. As of version 2023.7.0, the Odoo plugin has built-in [Odoo Stubs](https://github.com/odoo-ide/odoo-stubs) and automatically attaches them to your projects. [Read more](https://odoo-ide.com/blog/news-1/pycharm-odoo-2023-7-18).
+1. As of version 2023.7.0, the Odoo plugin has built-in [odoo-stubs](https://github.com/odoo-ide/odoo-stubs) and automatically attaches them to your projects. [Read more](https://odoo-ide.com/blog/news-1/pycharm-odoo-2023-7-18).
 
 ## Usage
 * [How to structure Odoo projects in PyCharm](https://odoo-ide.com/blog/tricks-4/structure-odoo-project-in-pycharm-12)
