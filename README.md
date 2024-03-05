@@ -2,7 +2,7 @@
 
 Boost your productivity and make your life easier as an Odoo developer
 
-[Homepage](https://odoo-ide.com) | [Issue Tracker](https://github.com/odoo-ide/pycharm-odoo/issues)
+[Homepage](https://odoo-ide.com) | [Documentation](https://github.com/odoo-ide/pycharm-odoo/wiki) | [Issue Tracker](https://github.com/odoo-ide/pycharm-odoo/issues)
 
 ## Features
 * Truly understand Odoo Framework (Modules, ORM, Testing, Data, Actions, Views,...).
