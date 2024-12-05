@@ -15,3 +15,7 @@ Boost your productivity and make your life easier as an Odoo developer
 2. Install [XPathView](https://plugins.jetbrains.com/plugin/12478-xpathview--xslt) to support XML view inheritance features.
 3. Install [CSV Plugin](https://plugins.jetbrains.com/plugin/10037-csv) to support code completion and navigation in CSV files.
 4. Install [PyDev.Debugger plugin for Odoo](https://github.com/odoo-ide/pydevd-odoo) to improve Odoo debugging.
+
+## Notes
+* The plugin has full support for Odoo >= 10 and partial support for Odoo 9.
+* SQL and JavaScript support are enabled only in PyCharm Professional.
