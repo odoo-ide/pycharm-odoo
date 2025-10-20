@@ -4,6 +4,8 @@ Boost your productivity and make your life easier as an Odoo developer
 
 [Homepage](https://odoo-ide.com) | [Documentation](https://github.com/odoo-ide/pycharm-odoo/wiki) | [Issue Tracker](https://github.com/odoo-ide/pycharm-odoo/issues)
 
+Thank you everyone for supporting the project over the past 6 years. Thank you very much.
+
 ## Features
 * Truly understand Odoo Framework (Modules, ORM, Testing, Data, Actions, Views,...).
 * Amazing code completion and navigation for Python, SQL, XML, JavaScript, CSV, and PO/POT.
@@ -17,5 +19,6 @@ Boost your productivity and make your life easier as an Odoo developer
 4. Install [PyDev.Debugger plugin for Odoo](https://github.com/odoo-ide/pydevd-odoo) to improve Odoo debugging.
 
 ## Notes
+* To improve performance, consider [increasing the maximum heap size to at least 4096 MB](https://www.jetbrains.com/help/pycharm/increasing-memory-heap.html).
 * The plugin has full support for Odoo >= 10 and partial support for Odoo 9.
-* SQL and JavaScript support are enabled only in PyCharm Professional.
+* SQL and JavaScript support are available only in PyCharm Pro.
