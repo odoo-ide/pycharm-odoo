@@ -4,7 +4,7 @@ Boost your productivity and make your life easier as an Odoo developer
 
 [Homepage](https://odoo-ide.com) | [Documentation](https://github.com/odoo-ide/pycharm-odoo/wiki) | [Issue Tracker](https://github.com/odoo-ide/pycharm-odoo/issues)
 
-Thank you everyone for supporting the project over the past 6 years. Thank you very much.
+Thank you everyone for supporting the project over the past 7 years. Thank you very much.
 
 ## Features
 * Truly understand Odoo Framework (Modules, ORM, Testing, Data, Actions, Views,...).
@@ -21,4 +21,4 @@ Thank you everyone for supporting the project over the past 6 years. Thank you v
 ## Notes
 * To improve performance, consider [increasing the maximum heap size to at least 4096 MB](https://www.jetbrains.com/help/pycharm/increasing-memory-heap.html).
 * The plugin has full support for Odoo >= 10 and partial support for Odoo 9.
-* SQL and JavaScript support are available only in PyCharm Pro.
+* SQL and JavaScript support is available only in PyCharm Pro.
